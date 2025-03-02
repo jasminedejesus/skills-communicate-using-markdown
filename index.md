@@ -8,6 +8,6 @@
 var myTwice = "TWICE";
 ```
 
-- [x] TWICE
-- [x] TWICE
+- [ ] TWICE
+- [ ] TWICE
 - [ ] TWICE
