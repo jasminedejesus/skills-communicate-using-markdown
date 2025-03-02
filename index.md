@@ -2,12 +2,12 @@
 ## TWICE
 ### TWICE
 
-![Image of Twice](https://wallpapercave.com/w/wp9160546)
+![Twice](https://wallpapercave.com/wp/wp9160546.jpg)
 
 ``` javascript
 var myTwice = "TWICE";
 ```
 
-- [ ] TWICE
-- [ ] TWICE
-- [ ] TWICE
+- [/] TWICE
+- [/] TWICE
+- [/] TWICE
